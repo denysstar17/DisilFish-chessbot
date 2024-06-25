@@ -1,2 +1,2 @@
 # DisilFish-chessbot
-Making chess bot by distilling Stockfish.
+Making a chess bot by distilling Stockfish.
